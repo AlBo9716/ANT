@@ -1,0 +1,4 @@
+﻿  Ant.cpp
+C:\Users\AlBo\Desktop\Ant-main\Ant.cpp(16,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  LINK : не найден или не выполнена сборка C:\Users\AlBo\Desktop\Ant-main\x64\Debug\Ant.exe при последней инкрементной компоновке; выполняется полная компоновка
+  Ant.vcxproj -> C:\Users\AlBo\Desktop\Ant-main\x64\Debug\Ant.exe
